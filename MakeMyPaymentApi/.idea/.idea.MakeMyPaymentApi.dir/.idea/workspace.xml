@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a77444d-81cf-4f9a-8f66-e7a8a2c46f04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MakeMyPaymentApi.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MakeMyPaymentApi.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a77444d-81cf-4f9a-8f66-e7a8a2c46f04" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668503858693</updated>
-      <workItem from="1668503903404" duration="1024000" />
+      <workItem from="1668503903404" duration="1717000" />
     </task>
     <servers />
   </component>
